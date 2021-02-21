@@ -10,7 +10,7 @@ Tested on 5.11.0-1-MANJARO with NVIDIA Driver 460.39
 Works with Pytorch CUDA 11.2 support
 
 
-# Graphics:  
+           # Graphics:  
            
            Device-1: Intel Iris Plus Graphics 655 driver: i915 v: kernel
 
